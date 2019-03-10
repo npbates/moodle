@@ -1,0 +1,1 @@
+    $authsenabled = explode(',', $CFG->auth);
